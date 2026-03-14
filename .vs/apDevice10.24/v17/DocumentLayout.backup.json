@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_9001_yunyang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modbus_9001_yunyang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\registManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\communicaManage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\communicaManage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus - front.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modbus - front.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\softwarewdt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modbus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_yf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modbus_yf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\protocol_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\protocol_process.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\access_device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\access_device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\lora.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\lora.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usbctl.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\usbctl.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\registManage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\softwarewdt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:driver\\usart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modbus_9001_yunyang.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_9001_yunyang.cpp",
+              "RelativeDocumentMoniker": "modbus_9001_yunyang.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_9001_yunyang.cpp",
+              "RelativeToolTip": "modbus_9001_yunyang.cpp",
+              "ViewState": "AgIAAIoLAAAAAAAAAAAAAJMLAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T09:09:32.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "modbus - front.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus - front.cpp",
+              "RelativeDocumentMoniker": "modbus - front.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus - front.cpp",
+              "RelativeToolTip": "modbus - front.cpp",
+              "ViewState": "AgIAAN8AAAAAAAAAAAASwO0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T12:44:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modbus.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus.cpp",
+              "RelativeDocumentMoniker": "modbus.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus.cpp",
+              "RelativeToolTip": "modbus.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAK4BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T12:48:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "protocol_process.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\protocol_process.cpp",
+              "RelativeDocumentMoniker": "driver\\protocol_process.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\protocol_process.cpp",
+              "RelativeToolTip": "driver\\protocol_process.cpp",
+              "ViewState": "AgIAACcBAAAAAAAAAAAlwCsBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T02:59:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "communicaManage.h",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.h",
+              "RelativeDocumentMoniker": "driver\\communicaManage.h",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.h",
+              "RelativeToolTip": "driver\\communicaManage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:06:34.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "softwarewdt.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.cpp",
+              "RelativeDocumentMoniker": "driver\\softwarewdt.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.cpp",
+              "RelativeToolTip": "driver\\softwarewdt.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T09:52:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registManage.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.cpp",
+              "RelativeDocumentMoniker": "driver\\registManage.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.cpp",
+              "RelativeToolTip": "driver\\registManage.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T09:52:22.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "communicaManage.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.cpp",
+              "RelativeDocumentMoniker": "driver\\communicaManage.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\communicaManage.cpp",
+              "RelativeToolTip": "driver\\communicaManage.cpp",
+              "ViewState": "AgIAABIBAAAAAAAAAAApwBgBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T09:52:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "modbus_yf.cpp",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_yf.cpp",
+              "RelativeDocumentMoniker": "modbus_yf.cpp",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\modbus_yf.cpp",
+              "RelativeToolTip": "modbus_yf.cpp",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAnwK0BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T08:49:14.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "access_device.h",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\access_device.h",
+              "RelativeDocumentMoniker": "driver\\access_device.h",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\access_device.h",
+              "RelativeToolTip": "driver\\access_device.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T02:27:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "usbctl.c",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usbctl.c",
+              "RelativeDocumentMoniker": "driver\\usbctl.c",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usbctl.c",
+              "RelativeToolTip": "driver\\usbctl.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T09:51:42.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "softwarewdt.h",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.h",
+              "RelativeDocumentMoniker": "driver\\softwarewdt.h",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\softwarewdt.h",
+              "RelativeToolTip": "driver\\softwarewdt.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vxgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T08:34:44.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lora.c",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\lora.c",
+              "RelativeDocumentMoniker": "driver\\lora.c",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\lora.c",
+              "RelativeToolTip": "driver\\lora.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T09:52:03.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "registManage.h",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.h",
+              "RelativeDocumentMoniker": "driver\\registManage.h",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\registManage.h",
+              "RelativeToolTip": "driver\\registManage.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAD4vyYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T10:58:49.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "usart.h",
+              "DocumentMoniker": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usart.h",
+              "RelativeDocumentMoniker": "driver\\usart.h",
+              "ToolTip": "D:\\\u9879\u76EE\u8D44\u6599\\SAP\u90E8\u5206\\SAP\\apDevice10.24\\driver\\usart.h",
+              "RelativeToolTip": "driver\\usart.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T08:40:51.306Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
